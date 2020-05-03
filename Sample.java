@@ -5,5 +5,6 @@ public class Sample{
     System.out.println("Gupta");
     System.out.println("modified");
     System.out.println("clear")
+    System.out.println("Abhishek");
   }
 }
