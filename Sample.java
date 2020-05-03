@@ -7,6 +7,7 @@ public class Sample{
     System.out.println("clear")
     System.out.println("Abhishek");
     System.out.println("changed");
-    System.out.println("Harendra")
+    System.out.println("Harendra");
+    System.out.println("Hari");
   }
 }
