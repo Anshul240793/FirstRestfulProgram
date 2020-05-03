@@ -9,8 +9,9 @@ public class Sample{
     System.out.println("changed");
     System.out.println("Harendra");
     System.out.println("Hari");
+    System.out.println("qa");
+    system.out.println("save");
   }
-  
   public static void save(){
     System.out.prilntln("Save");
   }
