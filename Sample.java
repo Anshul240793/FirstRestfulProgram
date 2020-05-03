@@ -8,5 +8,6 @@ public class Sample{
     System.out.println("Abhishek");
     
     System.out.println("changed");
+    System.out.println("Hari");
   }
 }
