@@ -4,7 +4,6 @@ public class Sample{
     System.out.println("Arjun");
     System.out.println("Gupta");
     System.out.println("modified");
-    
     System.out.println("clear")
   }
 }
