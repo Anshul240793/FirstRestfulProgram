@@ -1,3 +1,4 @@
+
 public class Sample{
   public static void main(String [] args){
     System.out.println("Anshul");
@@ -19,3 +20,9 @@ public class Sample{
      System.out.println("update"); 
   }
 }
+class Sample{
+  public static void main(S){
+
+  } 
+}
+
