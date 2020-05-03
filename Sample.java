@@ -14,4 +14,7 @@ public class Sample{
   public static void save(){
     System.out.prilntln("Save");
   }
+  public static void update(){
+     System.out.println("update"); 
+  }
 }
