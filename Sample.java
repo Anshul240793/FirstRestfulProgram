@@ -6,5 +6,7 @@ public class Sample{
     System.out.println("modified");
     System.out.println("clear")
     System.out.println("Abhishek");
+    
+    System.out.println("changed");
   }
 }
