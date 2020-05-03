@@ -10,4 +10,8 @@ public class Sample{
     System.out.println("Harendra");
     System.out.println("Hari");
   }
+  
+  public static void save(){
+    System.out.prilntln("Save");
+  }
 }
